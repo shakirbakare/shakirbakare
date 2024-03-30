@@ -1,28 +1,16 @@
-# Shakir Bakare
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fshakirbakare%2Fshakirbakare&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Profile+Views&edge_flat=false)](https://hits.seeyoufarm.com)
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-1da1f2?labelColor=1da1f2&logo=twitter&logoColor=white&link=https://twitter.com/shakirbakare)](https://twitter.com/shakirbakare)
+## 🌐Socials
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shakirbakare) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/shakirbakare) 
 
+# 💻Tech Stack
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
+# 📊GitHub Stats :
+![](https://github-readme-stats.vercel.app/api?username=shakirbakare&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=shakirbakare&theme=tokyonight&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=shakirbakare&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:shakirolabakare@gmail.com)
+### ✍️Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
-[![Github](https://img.shields.io/github/followers/shakirbakare?label=Follow&style=social)](https://github.com/shakirbakare)
-
-- 💻 A passionate Frontend Engineer and Technical Writer
-- 🤔 I’m currently reading Git. Check it out if interested.
-- 🌱 I also write about HTML, CSS, JavaScript
-- 📫 How to reach me: shakirbakare@gmail.com
-
-
-### 🖥 Skills
-
-- Frontend Development
-- Technical Writing
-### ⚙️ Tech Stack
-
-![Bootstrap](https://img.shields.io/badge/-HTML-05122A?style=flat-square&logo=HTML&color=353535) ![Bootstrap](https://img.shields.io/badge/-CSS-05122A?style=flat-square&logo=CSS&color=353535) ![Bootstrap](https://img.shields.io/badge/-JavaScript-05122A?style=flat-square&logo=JavaScript&color=353535) ![Bootstrap](https://img.shields.io/badge/-NodeJs-05122A?style=flat-square&logo=NodeJs&color=353535) ![Bootstrap](https://img.shields.io/badge/-Sass-05122A?style=flat-square&logo=Sass&color=353535)
-
-<div>
-  <img width="45%" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shakirbakare&show_icons=true&locale=en&layout=compact" alt="shakirbakare" />
-  <img width="50%"  src="https://github-readme-streak-stats.herokuapp.com/?user=shakirbakare&" alt="shakirbakare" />
-</div>
+---
+[![](https://visitcount.itsvg.in/api?id=shakirbakare&icon=5&color=1)](https://visitcount.itsvg.in)
