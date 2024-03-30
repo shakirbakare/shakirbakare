@@ -8,7 +8,7 @@
 
 [![Github](https://img.shields.io/github/followers/shakirbakare?label=Follow&style=social)](https://github.com/shakirbakare)
 
-- 💻 A passionate Frontend Developer and Technical Writer
+- 💻 A passionate Frontend Engineer and Technical Writer
 - 🤔 I’m currently reading Git. Check it out if interested.
 - 🌱 I also write about HTML, CSS, JavaScript
 - 📫 How to reach me: shakirbakare@gmail.com
