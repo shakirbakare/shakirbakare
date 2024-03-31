@@ -1,16 +1,19 @@
+Hello there! 👋
 
-## 🌐Socials
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shakirbakare) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/shakirbakare) 
+Peace be upon you!
 
-# 💻Tech Stack
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
-# 📊GitHub Stats :
-![](https://github-readme-stats.vercel.app/api?username=shakirbakare&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=shakirbakare&theme=tokyonight&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=shakirbakare&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+My name is Shakir Bakare. I'm a front-end engineer and technical author from Lagos, Nigeria. I'm passionate about creating seamless user experiences using HTML, CSS, JavaScript, Sass, and React.
 
-### ✍️Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+You can check out my portfolio at [shakirbakare.github.io](http://shakirbakare.github.io/).
 
----
-[![](https://visitcount.itsvg.in/api?id=shakirbakare&icon=5&color=1)](https://visitcount.itsvg.in)
+I write in simple language on my Hashnode blog "Learn With SHAKIR" to make complex development concepts easy to understand for myself and other developers.
+
+I am looking to collaborate on open-source front-end development and technical writing projects.
+
+You can contact me at [shakirolabakare@gmail.com](mailto:shakirolabakare@gmail.com).
+
+Thank you!
+
+Stay blessed.
+
+May the codes forever be in your favor!
