@@ -6,7 +6,7 @@ My name is Shakir Bakare. I'm a front-end engineer and technical author from Lag
 
 You can check out my portfolio at [shakirbakare.github.io](http://shakirbakare.github.io/).
 
-I write in simple language on my Hashnode blog "Learn With SHAKIR" to make complex development concepts easy to understand for myself and other developers.
+I write in simple language on my Hashnode blog "<a href='https://www.hashnode.dev/shakirbakare'>Learn With SHAKIR</a>" to make complex development concepts easy to understand for myself and other developers.
 
 I am looking to collaborate on open-source front-end development and technical writing projects.
 
