@@ -10,8 +10,4 @@ I write in simple language on my Hashnode blog "<a href='https://shakirbakare.ha
 
 I am looking to collaborate on open-source front-end development and technical writing projects.
 
-You can contact me at [shakirolabakare@gmail.com](mailto:shakirolabakare@gmail.com).
-
-Thank you!
-
-May the codes forever be in your favor!
+You can contact me at [shakirolabakare@gmail.com](mailto:shakirolabakare@gmail.com)
