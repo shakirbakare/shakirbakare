@@ -1,13 +1,13 @@
-Hello there! 👋
+Hello world! 👋
 
 Peace be upon you!
 
-My name is Shakir Bakare. I'm a front-end engineer and technical writer from Lagos, Nigeria. I'm passionate about creating seamless user experiences using HTML, CSS, JavaScript, Sass, and React.
+I'm Shakir Bakare. I'm a web designer, copywriter, and automation builder.
 
-You can check out my portfolio at [shakirbakare.github.io](http://shakirbakare.github.io/).
+I help businesses look professional online and run smoother behind the scenes, with websites built to convert and workflows that handle the repetitive work.
 
-I write in simple language on my Hashnode blog "<a href='https://shakirbakare.hashnode.dev'>DOCS BY SHAKIR</a>" to make complex development concepts easy to understand for myself and other developers.
+Here you'll find my web design and automation projects.
 
-I am looking to collaborate on open-source front-end development and technical writing projects.
+You can check out my portfolio at [shakirbakare.webflow.io](http://shakirbakare.webflow.io/).
 
-You can contact me at [shakirolabakare@gmail.com](mailto:shakirolabakare@gmail.com)
+You can contact me at [shakirolabakare@mail.com](mailto:shakirolabakare@qmail.com)
